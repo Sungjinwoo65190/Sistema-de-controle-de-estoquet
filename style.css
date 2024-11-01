@@ -1,0 +1,50 @@
+*{
+    background-image:url(img/dandadan-1-e1724987251637.jpg);
+    
+    background-repeat: no-repeat ;
+    background-size:cover;
+}
+h1{
+    color: #f2f2f2;
+    background: #a1a1a1;
+}
+h2{
+    color: #f2f2f2;
+    background: #a1a1a1;
+}
+body { 
+    font-family: Arial, sans-serif; 
+    max-width: 800px; 
+    margin: 20px auto;
+    background: none;
+}
+
+input, button { 
+    margin: 5px; 
+    padding: 5px; 
+    color: #ffff;
+    background: #ddd;
+}
+
+table { 
+    width: 100%; 
+    margin-top: 20px; 
+    border-collapse: collapse; 
+    color: #ffff;
+    background: #c2c2c2;
+}
+
+th, td { 
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: center; 
+    color: #ffff;
+    background: #c2c2c2;
+}
+
+th { 
+    background-color: #f2f2f2; 
+    color: #ffff;
+    background: #c2c2c2;
+} 
+ 
